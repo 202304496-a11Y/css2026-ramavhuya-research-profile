@@ -136,12 +136,13 @@ elif section == "Contact":
     st.markdown(
         """
         **Email:** 202304496@swave.smu.ac.za.com  
-        **GitHub:** https://github.com/yourusername  
+        **GitHub:** https://css2026-ramavhuya-research-profile-h9f5cgzrwdrcakx3n87fhy.streamlit.app/
         """
     )
 
 # ------------------ Footer ------------------
 st.markdown("---")
 st.caption("© 2026 • CSS Streamlit Research Profile")
+
 
 
