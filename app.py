@@ -27,7 +27,7 @@ st.sidebar.caption("CSS 2026 • Streamlit Cloud")
 # ------------------ Header ------------------
 st.title("🔬 Researcher Profile")
 st.subheader("Livhuwani Ramavhuya")
-st.caption("BSc Student | Mathematics | Physical Sciences")
+st.caption("BSc Honours Student | Mathematics | Physical Sciences")
 
 st.markdown("---")
 
@@ -143,6 +143,7 @@ elif section == "Contact":
 # ------------------ Footer ------------------
 st.markdown("---")
 st.caption("© 2026 • CSS Streamlit Research Profile")
+
 
 
 
