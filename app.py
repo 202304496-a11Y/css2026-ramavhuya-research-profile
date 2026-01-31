@@ -36,7 +36,7 @@ if section == "Profile":
     st.header("About Me")
     st.write(
         """
-        I am a BSc Honours (Mathematics) student with a strong interest in **data science, physics,
+        I am a BSc Honours (Mathematics) student at Sefako Makgatho Health Sciences University with a strong interest in **data science, physics,
         mathematics, and computational research**.  
         I enjoy working with data, building analytical tools, and applying scientific
         principles to real-world problems.
@@ -143,6 +143,7 @@ elif section == "Contact":
 # ------------------ Footer ------------------
 st.markdown("---")
 st.caption("© 2026 • CSS Streamlit Research Profile")
+
 
 
 
